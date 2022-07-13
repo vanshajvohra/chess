@@ -1,0 +1,10 @@
+setup
++ k g8
++ p f6
++ p g4
++ q g3
++ p h3
++ K h1
+= Black
+done
+move f6 f5

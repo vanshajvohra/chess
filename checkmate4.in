@@ -1,0 +1,13 @@
+setup
++ K g1
++ P f2
++ P g2
++ P h2
++ k g8
++ p f7
++ p g7
++ p h7
++ r d8
+= Black
+done
+move d8 d1

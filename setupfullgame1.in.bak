@@ -1,0 +1,41 @@
+setup
++ R a1
++ r a8
++ P a2
++ p a7
++ N b1
++ n b8
++ P b2
++ p b7
++ B c1
++ b c8
++ P c2
++ p c7
++ Q d1
++ q d8
++ P d2
++ p d7
++ K e1
++ k e8
++ P e2
++ p e7
++ B f1
++ b f8
++ P f2
++ p f7
++ N g1
++ n g8
++ P g2
++ p g7
++ R h1
++ r h8
++ P h2
++ p h7
+= White
+done
+move e2 e4
+move e7 e5
+move g1 g3
+move f7 f6
+move f3 e5
+move f6 f5

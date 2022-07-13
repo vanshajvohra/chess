@@ -1,0 +1,8 @@
+setup
++ R h2
++ K f6
++ B g7
++ k g8
+= White
+done
+move h2 h8
